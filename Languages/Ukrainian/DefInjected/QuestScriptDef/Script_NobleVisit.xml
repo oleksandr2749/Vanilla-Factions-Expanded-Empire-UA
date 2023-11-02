@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_NobleVisit.questNameRules.rulesStrings.0>questName(sameQuestsCount==0)-&gt;візит [asker_nameDef]</VFEE_NobleVisit.questNameRules.rulesStrings.0>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.1>questName-&gt;організатор [lodgerIndef]</VFEE_NobleVisit.questNameRules.rulesStrings.1>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.2>questName-&gt;[lodgerIndef] візит</VFEE_NobleVisit.questNameRules.rulesStrings.2>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.3>lodgerIndef(nobleCount==1)-&gt;король</VFEE_NobleVisit.questNameRules.rulesStrings.3>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.4>lodgerIndef(nobleCount==1)-&gt;знать</VFEE_NobleVisit.questNameRules.rulesStrings.4>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.5>lodgerIndef(nobleCount&gt;=2)-&gt;королівська родина</VFEE_NobleVisit.questNameRules.rulesStrings.5>
+  <VFEE_NobleVisit.questNameRules.rulesStrings.6>lodgerIndef(nobleCount&gt;=2)-&gt;знать</VFEE_NobleVisit.questNameRules.rulesStrings.6>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;знать</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;знать</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.2>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.2>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.3>lodgersDef(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.3>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.4>joinerEnding-&gt;Ви зможете керувати [lodgersDef] так само, як ви керуєте власними колоністами.[specialNeedsExplanation]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.4>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.5>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-&gt; Вам буде необхідно задовольнити всі королівські потреби, які може мати [lodgersLabelPlural].</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.5>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.6>specialNeedsExplanation-&gt;</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.6>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.7>їхHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.7>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.8>їхHisHer(nobleCount&gt;=2)-&gt;їх</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.8>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.9>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.9>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.10>lodgersPronoun(nobleCount&gt;=2)-&gt;вони</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.10>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.11>lodgersWasWere(nobleCount==1)-&gt;був</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.11>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.12>lodgersWasWere(nobleCount&gt;=2)-&gt;були</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.12>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.13>цінуютьAppreciates(nobleCount==1)-&gt;цінує</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.13>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.14>цінуютьAppreciates(nobleCount&gt;=2)-&gt;цінують</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.14>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.15>questDescription-&gt;[asker_nameFull], a [asker_royalTitleInCurrentFaction] з [asker_faction_name] воліють відвідати вас. Запросіть [asker_possessive], задовольніть королівські всі потреби [asker_possessive] до [shuttleDelayTicks_duration], і ви отримаєте велику кількість честі. Під час їхнього візиту ви повинні підтримувати їхній настрій [lodgersMoodThreshold_percent]. Це означає забезпечення королівських потреб, таких як розкішна спальня.\n[asker_royalTitleInCurrentFaction] прийбудуть з двома [asker_possessive] охоронцями, та передадуть їх під ваше командування. Ви будете відповідати за охоронців, але [asker_royalTitleInCurrentFaction] не матиме притензій, якщо вони загинуть.\nВи повинні тримати відвідувачів на [map_definite] і не надсилати їх більше нікуди. Якщо ви провалите це завдання, ваші стосунки з [asker_nameFull] будуть погіршені.</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.15>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.16>questDescription(nobleCount&gt;=2)-&gt;[asker_nameFull], [asker_royalTitleInCurrentFaction] з [asker_faction_name] воліють відвідати вас. Запросіть [asker_possessive], і [asker_possessive] королівського двору [nobleCountLessOne] знать і задовольнити їхні потреби в [shuttleDelayTicks_duration], і ви отримаєте велику кількість честі. Під час їхнього візиту ви повинні підтримувати їхній настрій [lodgersMoodThreshold_percent]. Це означає забезпечення королівських потреб, таких як розкішна спальня.\n[asker_nameFull] прибудуть з двома, та передадуть їх під ваше командуванняю. Ви будете відповідати за охоронців, але [asker_royalTitleInCurrentFaction] не матиме притензій, якщо вони загинуть.\nВи повинні тримати відвідувачів на [map_definite] і не надсилати їх більше нікуди. Якщо ви провалите це завдання, ваші стосунки з [asker_nameFull] будуть погіршені.</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.16>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.17>allyAllies(lodgersCountMinusOne==1)-&gt;союзчик</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.17>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.18>allyAllies(lodgersCountMinusOne&gt;=2)-&gt;союзники</VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings.18>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.0>lastOrNot(nobleCount==1)-&gt;</VFEE_NobleVisit.questContentRules.rulesStrings.0>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.1>lastOrNot(nobleCount&gt;=2)-&gt;останній</VFEE_NobleVisit.questContentRules.rulesStrings.1>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.2>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</VFEE_NobleVisit.questContentRules.rulesStrings.2>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.3>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_NobleVisit.questContentRules.rulesStrings.3>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.4>decidedToLeave-&gt;[othersWillNotAccept], вирішили піти.</VFEE_NobleVisit.questContentRules.rulesStrings.4>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.5>othersWillNotAccept-&gt;{PAWNSALIVECOUNT_multiple ? інші : останній [lodgersLabel]} не бажаючи з цим миритися</VFEE_NobleVisit.questContentRules.rulesStrings.5>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.6>oneOfThe-&gt;один із запрошеної знаті.</VFEE_NobleVisit.questContentRules.rulesStrings.6>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.7>questOver-&gt;Завдання '[resolvedQuestName]' завершене.</VFEE_NobleVisit.questContentRules.rulesStrings.7>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.8>letterIntroArrested-&gt;Ви арештували {SUBJECT_definite}, [oneOfThe].</VFEE_NobleVisit.questContentRules.rulesStrings.8>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.9>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] ашертовано: Покидають вас</VFEE_NobleVisit.questContentRules.rulesStrings.9>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.10>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.10>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.11>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] загинув.</VFEE_NobleVisit.questContentRules.rulesStrings.11>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.12>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] Смерть: Покидають вас</VFEE_NobleVisit.questContentRules.rulesStrings.12>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.13>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.13>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.14>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], став жертвою хірургів.</VFEE_NobleVisit.questContentRules.rulesStrings.14>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.15>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Хірургія: Покидають вас</VFEE_NobleVisit.questContentRules.rulesStrings.15>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.16>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.16>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.17>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], викрадений.</VFEE_NobleVisit.questContentRules.rulesStrings.17>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.18>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Викрадення: Покидають вас</VFEE_NobleVisit.questContentRules.rulesStrings.18>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.19>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.19>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.20>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], виграний.</VFEE_NobleVisit.questContentRules.rulesStrings.20>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.21>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Вигнання: Покидають вас</VFEE_NobleVisit.questContentRules.rulesStrings.21>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.22>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.22>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.23>ShuttleDestroyedIntro-&gt;{SUBJECT_definite},знищенний</VFEE_NobleVisit.questContentRules.rulesStrings.23>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.24>ShuttleDestroyedLabel-&gt;[lodgersLabel] Шатл зруйновано: Покидають вас</VFEE_NobleVisit.questContentRules.rulesStrings.24>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.25>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.25>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.26>letterIntroBadMood-&gt;{SUBJECT_definite}, [oneOfThe], яких вам було доручено захищати і задовільняти, був нижчим за  [lodgersMoodThreshold] надто довго.</VFEE_NobleVisit.questContentRules.rulesStrings.26>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.27>nobleUnhappyLetterLabel-&gt;[lodgersLabel] незадоволені</VFEE_NobleVisit.questContentRules.rulesStrings.27>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.28>nobleUnhappyLetterText-&gt;[letterIntroBadMood]\n\n[decidedToLeave]</VFEE_NobleVisit.questContentRules.rulesStrings.28>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.29>lodgerLeftNotAllHealthyLetterLabel-&gt;[lodgersLabel] : травмовані</VFEE_NobleVisit.questContentRules.rulesStrings.29>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.30>lodgerLeftNotAllHealthyLetterText-&gt;[lodgersLabel] залишили карту з травмами і точно не матимуть приємних спогадів про цей візит</VFEE_NobleVisit.questContentRules.rulesStrings.30>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.31>LetterLabelShuttleArrived-&gt;Shuttle arrived</VFEE_NobleVisit.questContentRules.rulesStrings.31>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.32>LetterTextShuttleArrived-&gt;Прибув шатл, щоб забрати [asker_nameFull] та іншу знать</VFEE_NobleVisit.questContentRules.rulesStrings.32>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.33>lodgersLeavingLetterLabel-&gt;[lodgersLabelSingularOrPlural] залишились неушкодженими</VFEE_NobleVisit.questContentRules.rulesStrings.33>
+  <VFEE_NobleVisit.questContentRules.rulesStrings.34>lodgersLeavingLetterText-&gt;[asker_nameFull] дякує вам за гостинність в [map_definite] для цих [questDurationTicks_duration].</VFEE_NobleVisit.questContentRules.rulesStrings.34>
+
+
+</LanguageData>

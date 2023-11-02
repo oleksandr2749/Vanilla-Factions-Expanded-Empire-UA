@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE.SeeAlso>Дивитись також:</VFEE.SeeAlso>
+  <VFEE.ChangeCharacter>Змінити персонажа</VFEE.ChangeCharacter>
+  <VFEE.CurrentTitle>Поточний титул: {0}</VFEE.CurrentTitle>
+  <VFEE.CurrentHonor>Честь: {0}</VFEE.CurrentHonor>
+  <VFEE.PermitPoints>Не використані бали дозволів: {0}</VFEE.PermitPoints>
+  <VFEE.DevMode>Режим розробника</VFEE.DevMode>
+  <VFEE.VassalPoints>Не використані бали васала: {0}</VFEE.VassalPoints>
+  <VFEE.ReleaseAllVassals>Позбутися всіх васалів</VFEE.ReleaseAllVassals>
+  <VFEE.ReleaseAllVassals.Confirm>Відміна всіх васальних договорів призведе до втрати накопичених ними ресурсів. Ви впевнені?</VFEE.ReleaseAllVassals.Confirm>
+  <VFEE.VassalsOf>Васали {0}, {1}</VFEE.VassalsOf>
+  <VFEE.TitheDesc>Дань буде доставлена транспортною капсулою після визначеного часу.</VFEE.TitheDesc>
+  <VFEE.Deliver>Доставити</VFEE.Deliver>
+  <VFEE.Deliver.EveryWeek>Кожні 7 днів</VFEE.Deliver.EveryWeek>
+  <VFEE.Deliver.EveryQuadrum>Кожні 15 днів</VFEE.Deliver.EveryQuadrum>
+  <VFEE.Deliver.EveryYear>Один раз на рік</VFEE.Deliver.EveryYear>
+  <VFEE.Deliver.Never>Ніколи (призупинити)</VFEE.Deliver.Never>
+  <VFEE.Created>{0} {1} створювати кожний день.</VFEE.Created>
+  <VFEE.CreatedSpecial>{0} {1} створювати кожні {2} дні.</VFEE.CreatedSpecial>
+  <VFEE.InStockpile>{0} на складі: {1}</VFEE.InStockpile>
+  <VFEE.VassalDesc>Ви можете підкорити лише бази, що знаходяться на відстані до 100 клітин від вас або вашого васала. Підкорюйте більше міст, щоб збільшити зону впливу та розблокувати більше потенційних васальних суб'єктів.</VFEE.VassalDesc>
+  <VFEE.NoVassalize>Васалізація неможлива: Занадто далеко</VFEE.NoVassalize>
+  <VFEE.Vassalize>Васалізація</VFEE.Vassalize>
+  <VFEE.RoomRequirementInstrumentSpace>Танцювальний простір для всіх інструментів.</VFEE.RoomRequirementInstrumentSpace>
+  <VFEE.OfThe>{0} з {1}</VFEE.OfThe>
+  <VFEE.Invite>Запросити на відвідити</VFEE.Invite>
+  <VFEE.InviteAs>запросити {0} за {1} честі</VFEE.InviteAs>
+  <VFEE.Skip.Title.Previous>Перейти до попереднього титулу</VFEE.Skip.Title.Previous>
+  <VFEE.Skip.Title.Next>Перейти до наступного титулу</VFEE.Skip.Title.Next>
+  <VFEE.Skip.Colonist.Previous>Перейти до пепереднього колоніста</VFEE.Skip.Colonist.Previous>
+  <VFEE.Skip.Colonist.Next>Перейти до наступного колоніста</VFEE.Skip.Colonist.Next>
+  <VFEE.Honors.RemoveAll>Позбутися всієї честі</VFEE.Honors.RemoveAll>
+  <VFEE.Honors.Active>Ці привілеї активні для вашого шляхтича. Перетягніть їх вправо, щоб позбути персонажа від них.</VFEE.Honors.Active>
+  <VFEE.Honors.Available>Ці привілеї доступні  вашим шляхтичами. Перетягніть їх вліво, щоб активуват їх для персонажа.</VFEE.Honors.Available>
+  <VFEE.HonorsOf>Привілеї з {0}, {1}</VFEE.HonorsOf>
+  <VFEE.Honors.Reward>Ви отримали привілей {0}, який зможете призначити вашій знаті.</VFEE.Honors.Reward>
+  <VFEE.Honors>Привілеї</VFEE.Honors>
+  <VFEE.MustBeLordOf>Повинен бути лордом {0}</VFEE.MustBeLordOf>
+  <VFEE.MustWield>Повинен володіти {0}</VFEE.MustWield>
+  <VFEE.MustHaveParent>Повинен мати батька, або мати</VFEE.MustHaveParent>
+  <VFEE.Honor.Pending>Повинно бути надано під час церемонії, перш ніж воно стане активним.</VFEE.Honor.Pending>
+  <VFEE.Honor.Bestow>Надати привілей</VFEE.Honor.Bestow>
+  <VFEE.Honor.BestowPlural>Надати привілеї</VFEE.Honor.BestowPlural>
+  <VFEE.Honor.Bestow.Desc>Надати обрані привілеї цій знаті. Будуть надані наступні привілеї::\n{0}</VFEE.Honor.Bestow.Desc>
+  <VFEE.Successful>Успішно</VFEE.Successful>
+  <VFEE.Honor.Bestow.Success>Отримали привілеї:\n{0}</VFEE.Honor.Bestow.Success>
+  <VFEE.Honor.NoHonors>Напевно, є ще якісь привілеї, якими я маю когось наділити.</VFEE.Honor.NoHonors>
+
+</LanguageData>

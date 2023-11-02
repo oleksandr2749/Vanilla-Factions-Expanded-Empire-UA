@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VEE_Gun_Fletcher.label>ВСГ "жало"</VEE_Gun_Fletcher.label>
+  <VEE_Gun_Fletcher.description>Великокаліберна снайперська гвинтівка надвеликої дальності, яка стріляє флешетами кислотним зарядом. Через свою смертоносність, вона завжди біокодована і самознищується, якщо її власник помирає або роззброюється. Ціль в яку влучить флешета, будуть уражені нестабільною кислотою, призначеним для розчинення тіла, не пошкоджуючи спорядження. Кислота проникає в тіло цілі і зазвичай призводить до розчинення життєво важливих органів, проте летальність не стовідсоткова.</VEE_Gun_Fletcher.description>
+  <VEE_Gun_Fletcher.tools.0.label>barrel</VEE_Gun_Fletcher.tools.0.label>
+
+  <VFEE_Bullet_FletcherDart.label>патрон "жало"</VFEE_Bullet_FletcherDart.label>
+
+  <VFEE_Gun_ChargeThumper.label>енергетичний дробовик "довбень"</VFEE_Gun_ChargeThumper.label>
+  <VFEE_Gun_ChargeThumper.description>Модифікований технологіями механоїдів штурмовий дробовик із енергетичним патроном. Утилізовані гаубиці були перероблені на ручну зброю, здатну стріляти болванками. Досить потужна, але з невеликою дальністю стрільби, ефективна проти споруд та важкоброньованих цілей.</VFEE_Gun_ChargeThumper.description>
+  <VFEE_Gun_ChargeThumper.tools.0.label>stock</VFEE_Gun_ChargeThumper.tools.0.label>
+  <VFEE_Gun_ChargeThumper.tools.1.label>barrel</VFEE_Gun_ChargeThumper.tools.1.label>
+
+  <VFEE_Bullet_ChargeThumper.label>снаряд "довбень"</VFEE_Bullet_ChargeThumper.label>
+
+
+</LanguageData>

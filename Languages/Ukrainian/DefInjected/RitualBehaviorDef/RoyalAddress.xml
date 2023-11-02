@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_RoyalAddres_Behavior.letterText>{ORGANIZER_labelShort} виголошує королівську промову з трону. Якщо все пройде добре, кожен титулований учасник отримає невелику кількість честі, а {ORGANIZER_labelShort} отримає честь за кожного титулованого учасника. Якщо все піде погано, промова завдасть соціальної шкоди, і {ORGANIZER_labelShort} втратить честь за кожного титулованого учасника. Результат залежить від соціальних здібностей {ORGANIZER_labelShort}. Імперські дворяни, які наразі проживають у цій місцевості, приєднаються до промови і вважатимуться титулованими учасниками.</VFEE_RoyalAddres_Behavior.letterText>
+  <VFEE_RoyalAddres_Behavior.roles.0.label>organizer</VFEE_RoyalAddres_Behavior.roles.0.label>
+  <VFEE_RoyalAddres_Behavior.roles.1.label>title holders</VFEE_RoyalAddres_Behavior.roles.1.label>
+
+
+</LanguageData>

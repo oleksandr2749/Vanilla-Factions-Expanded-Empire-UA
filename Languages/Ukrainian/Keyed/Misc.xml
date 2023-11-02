@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEE.OR>АБО</VFEE.OR>
+  <VFEE.StartBestower.NoThrone>Не може розпочати через те, що {0} не має гідного трону.</VFEE.StartBestower.NoThrone>
+  <VFEE.StartBestower.NoTarget>Церемонія не може проводитися без належної тронної зали.</VFEE.StartBestower.NoTarget>
+  <VFEE.StartBestower.HigherTitle>Обрана знать вже має це, або вищий титул.</VFEE.StartBestower.HigherTitle>
+  <VFEE.StartBestower.DisabledExistingRitual>Неможливо розпочати, поки триває інша церемонія.</VFEE.StartBestower.DisabledExistingRitual>
+  <VFEE.GalleryRequirements>Вимоги до галереї</VFEE.GalleryRequirements>
+  <VFEE.GalleryRequirements.Unmet>Вимоги до галереї не виконані: {0}</VFEE.GalleryRequirements.Unmet>
+  <VFEE.BallroomRequirements>Вимоги до бального залу</VFEE.BallroomRequirements>
+  <VFEE.BallroomRequirements.Unmet>Вимоги до бального залу не виконані для: {0}</VFEE.BallroomRequirements.Unmet>
+  <VFEE.BallroomRequirements.DanceFloorToSmall>У бальному залі недостатньо місця для танців і гостей! Потрібно більше місця {0} поруч з інструментами </VFEE.BallroomRequirements.DanceFloorToSmall>
+  <VFEE.CourtRequirements>Вимогу до двору знаті</VFEE.CourtRequirements>
+  <VFEE.GrandBall.Begin>Розпочати Грандіозний бал</VFEE.GrandBall.Begin>
+  <VFEE.GrandBall.Label>Грандіозний бал</VFEE.GrandBall.Label>
+  <VFEE.GrandBall.Leave.label>Покинути грандіозний бал</VFEE.GrandBall.Leave.label>
+  <VFEE.GrandBall.Leave.Desc>Персонаж покине грандіозний бал, він не зможе приєднатися до нього пізніше</VFEE.GrandBall.Leave.Desc>
+  <VFEE.GrandBall.Cancel.Label>Скасувти величного бала</VFEE.GrandBall.Cancel.Label>
+  <VFEE.GrandBall.Cancel.Desc>Скасувати грандіозний бал, відправивши всіх додому і проваливши завдання</VFEE.GrandBall.Cancel.Desc>
+  <VFEE.GrandBall.Cancel.Confirm>Повторити це свято не буде можливості, ваші гості підуть додому незадоволеними, а завдання буде провалено.</VFEE.GrandBall.Cancel.Confirm>
+  <VFEE.GrandBall.Waiting>Ваші гості чекають, коли ви розпочнете грандіозний бал. Але чекати вони будуть недовго</VFEE.GrandBall.Waiting>
+  <VFEE.GrandBall.Description>Ексклюзивний бал, на який запрошуються лише ті, хто має королівський титул, та деяких з тих, хто вміє грати на музичних інструментах</VFEE.GrandBall.Description>
+  <VFEE.GrandBall.ChooseParticipants>Учасники</VFEE.GrandBall.ChooseParticipants>
+  <VFEE.ArtExhibit.Begin>Провести художню виставку</VFEE.ArtExhibit.Begin>
+  <VFEE.ArtExhibit.Label>Художня виставка</VFEE.ArtExhibit.Label>
+  <VFEE.ArtExhibit.Leave.label>Покинути виставку</VFEE.ArtExhibit.Leave.label>
+  <VFEE.ArtExhibit.Leave.Desc>Персонаж покине виставку, він не зможе приєднатися до неї пізніше</VFEE.ArtExhibit.Leave.Desc>
+  <VFEE.ArtExhibit.Cancel.Label>Скасувати виставку</VFEE.ArtExhibit.Cancel.Label>
+  <VFEE.ArtExhibit.Cancel.Desc>Скасуйте художню виставу, відправивши всіх додому і проваливши завдання</VFEE.ArtExhibit.Cancel.Desc>
+  <VFEE.ArtExhibit.Cancel.Confirm>Повторити виставку не буде можливо, ваші гості підуть додому незадоволеними, а квест буде провалено.</VFEE.ArtExhibit.Cancel.Confirm>
+  <VFEE.ArtExhibit.Waiting>Ваші гості чекають, коли ви відкриєте виставку. Але чекати вони будуть недвовго</VFEE.ArtExhibit.Waiting>
+  <VFEE.ArtExhibit.Description>Художня вистава, в якій візьмуть участь лише ті, хто має королівський титул, щоб оглянути вашу галерею і промести час разом.</VFEE.ArtExhibit.Description>
+  <VFEE.ArtExhibit.ChooseParticipants>Учасники</VFEE.ArtExhibit.ChooseParticipants>
+  <VFEE.Parade.Begin>Провести парад</VFEE.Parade.Begin>
+  <VFEE.Parade.Murder>Від ревнощів, {0} намагається вбити стелларха!</VFEE.Parade.Murder>
+  <VFEE.Parade.Label>Парад</VFEE.Parade.Label>
+  <VFEE.Parade.Leave.label>Покинути парад</VFEE.Parade.Leave.label>
+  <VFEE.Parade.Leave.Desc>Персонаж покине парад, він не зможе приєднатися до нього пізніше</VFEE.Parade.Leave.Desc>
+  <VFEE.Parade.Cancel.Label>Відмінити парад</VFEE.Parade.Cancel.Label>
+  <VFEE.Parade.Cancel.Desc>Відмінити парад, відправивши всіх додому і проваливши завдання</VFEE.Parade.Cancel.Desc>
+  <VFEE.Parade.Cancel.Confirm>Повторити парад не буде можливості, ваші гості підуть додому незадоволеними, а квест буде провалено.</VFEE.Parade.Cancel.Confirm>
+  <VFEE.Parade.Waiting>Ваші гості чекають, коли ви розпочнете Парад. Але чекати вони будуть недовго</VFEE.Parade.Waiting>
+  <VFEE.Parade.Description>Традиційний парад вознесіння, щоб провести стелларха у далекий, космічний шлях!</VFEE.Parade.Description>
+  <VFEE.Parade.InvalidGuard>Стелларх недостатньо довіряє {0}.</VFEE.Parade.InvalidGuard>
+  <VFEE.Parade.ChooseParticipants>Учасники</VFEE.Parade.ChooseParticipants>
+  <VFEE.Parade.LandingAreaUnmet>Не вдалося знайти відповідний маячок, на якому зможу приземлитися шатл з гостями</VFEE.Parade.LandingAreaUnmet>
+  <VFEE.Parade.Reward.Label>Стелларх вознесіння</VFEE.Parade.Reward.Label>
+  <VFEE.Parade.Reward.Description>Ваш Стелларх досягне вознесіння з відходом з цього світу, щоб просуватися далі у великій ієрархії, служачи безпосередньо імператору.</VFEE.Parade.Reward.Description>
+  <VFEE.DefuseBomb>Знешкодити бомбу</VFEE.DefuseBomb>
+  <VFEE.AssassinationSuccess>Дезертири йдуть, оскільки вони ліквідували свою ціль.</VFEE.AssassinationSuccess>
+  <VFEE.Discard>Викинути</VFEE.Discard>
+  <VFEE.RoyaltyDead>Дезертири йдуть, оскільки вони знищили всіх шляхтичів в цій місцевості.</VFEE.RoyaltyDead>
+  <VFEE.GotDrug>{0} {0_gender ? надіслав: надіслала} вам святковий пакет з аперитивом!</VFEE.GotDrug>
+  <VFEE.TitheArrived>Десята частина з {0} надійшла з {1}.</VFEE.TitheArrived>
+  <VFEE.HonorGainedTitle>1 Честь отримана {0} завдяки {1}.</VFEE.HonorGainedTitle>
+
+</LanguageData>

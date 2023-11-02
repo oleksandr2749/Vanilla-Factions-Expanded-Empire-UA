@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_CutToxblade.label>зарізано</VFEE_CutToxblade.label>
+  <VFEE_CutToxblade.deathMessage>{0} {0_gender ? був зарізаний: була зарізана}.</VFEE_CutToxblade.deathMessage>
+
+  <VFEE_StabToxblade.label>заколото</VFEE_StabToxblade.label>
+  <VFEE_StabToxblade.deathMessage>{0} {0_gender ? був заколотий : була заколота}.</VFEE_StabToxblade.deathMessage>
+
+
+</LanguageData>

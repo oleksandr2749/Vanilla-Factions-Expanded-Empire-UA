@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings.0>questName-&gt;Вдячність за великий бал</VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings.0>
+  <VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings.0>questDescription-&gt;вдячність за гостинність та великий бал</VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.0>rewardLetterLabel-&gt;Подарунок від знаті</VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.0>
+  <VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.1>rewardLetterText-&gt;[rewardGiver_nameDef] зв'язався з вами. [rewardDelayTicks_duration] не так давно, ви провели у себе [outcome] великий бал для [rewardGiver_possessive] \n\nВідтоді, [rewardGiver_pronoun] повернулася додому, і [rewardGiver_pronoun] хоче зробити вам особистий подарунок. [rewardGiver_pronoun] надсилає вам дещо транспортною кампулою:\n\n[listOfRewards]</VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings.1>
+
+  <VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings.0>questName-&gt;Вдячність за художню виставу</VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings.0>
+  <VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings.0>questDescription-&gt;вдячність за гостинність та великий бал</VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.0>rewardLetterLabel-&gt;Подарунок від знаті</VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.0>
+  <VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.1>rewardLetterText-&gt;[rewardGiver_nameDef] зв'язався з вами. [rewardDelayTicks_duration] не так давно, ви провели у себе [outcome] художню виставу для [rewardGiver_possessive] \n\nВідтоді, [rewardGiver_pronoun] повернулася додому, і [rewardGiver_pronoun] хоче зробити вам особистий подарунок. [rewardGiver_pronoun] надсилає вам дещо транспортною кампулою:\n\n[listOfRewards]</VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings.1>
+
+
+</LanguageData>

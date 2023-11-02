@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_RoyalSculptureSmall.label>мала імперська скульптура</VFEE_RoyalSculptureSmall.label>
+  <VFEE_RoyalSculptureSmall.description>A torso-sized piece of material sculpted into an artistic form.</VFEE_RoyalSculptureSmall.description>
+  <VFEE_RoyalSculptureSmall_Blueprint_Install.label>small imperial sculpture (blueprint)</VFEE_RoyalSculptureSmall_Blueprint_Install.label>
+
+  <VFEE_RoyalSculptureLarge.label>велика імперська скульптура</VFEE_RoyalSculptureLarge.label>
+  <VFEE_RoyalSculptureLarge.description>A person-sized piece of material sculpted into an artistic form.</VFEE_RoyalSculptureLarge.description>
+  <VFEE_RoyalSculptureLarge_Blueprint_Install.label>large imperial sculpture (blueprint)</VFEE_RoyalSculptureLarge_Blueprint_Install.label>
+
+  <VFEE_RoyalSculptureGrand.label>велична імперська скульптура</VFEE_RoyalSculptureGrand.label>
+  <VFEE_RoyalSculptureGrand.description>A huge sculpture sized to dominate a room.</VFEE_RoyalSculptureGrand.description>
+  <VFEE_RoyalSculptureGrand_Blueprint_Install.label>grand imperial sculpture (blueprint)</VFEE_RoyalSculptureGrand_Blueprint_Install.label>
+
+
+</LanguageData>

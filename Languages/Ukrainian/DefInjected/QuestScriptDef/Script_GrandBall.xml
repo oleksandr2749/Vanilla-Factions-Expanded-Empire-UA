@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_GrandBall.questNameRules.rulesStrings.0>questName-&gt;[lodgerIndef] бажає грандіозний бал</VFEE_GrandBall.questNameRules.rulesStrings.0>
+  <VFEE_GrandBall.questNameRules.rulesStrings.1>lodgerIndef-&gt;король</VFEE_GrandBall.questNameRules.rulesStrings.1>
+  <VFEE_GrandBall.questNameRules.rulesStrings.2>lodgerIndef-&gt;знать</VFEE_GrandBall.questNameRules.rulesStrings.2>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;знать</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;знать</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.2>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.2>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.3>lodgersDef(nobleCount&gt;=2)-&gt; [lodgersLabelPlural]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.3>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.4>joinerEnding-&gt;Ви зможете керувати [lodgersDef] так само, як ви керуєте власними колоністами.[specialNeedsExplanation]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.4>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.5>їхHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.5>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.6>їхHisHer(nobleCount&gt;=2)-&gt;їх</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.6>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.7>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.7>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.8>lodgersPronoun(nobleCount&gt;=2)-&gt;вони</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.8>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.9>lodgersWasWere(nobleCount==1)-&gt;був</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.9>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.10>lodgersWasWere(nobleCount&gt;=2)-&gt;були</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.10>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.11>цінуютьAppreciates(nobleCount==1)-&gt;цінує</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.11>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.12>цінуютьAppreciates(nobleCount&gt;=2)-&gt;цінують</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.12>
+  <VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.13>questDescription-&gt;[asker_nameFull], [asker_royalTitleInCurrentFaction] з [asker_faction_name] воліє, щоб ви організували грандіозний бал, для нього та іншої знаті. Це чудова нагода для налагодження стосунків з представниками імператорської знаті.\nВи зобов'язані мати бальну залу. Якщо в якийсь момент зала, або музичні інструменти будуть зруйновані, бал буде скасовано.\n[asker_nameFull] надіслав вам список знаті, якя буде запрошена на бал:\n[noblesDetailList]\n\nВам потрібно подбати про безпеку та комфорт гостей під час балу. Якщо з кимось із гостей щось трапиться, бал буде скасована.\nДезертири можуть скористатися цією можливістю для організації замаху.</VFEE_GrandBall.questDescriptionAndNameRules.rulesStrings.13>
+  <VFEE_GrandBall.questContentRules.rulesStrings.0>lastOrNot(nobleCount==1)-&gt;</VFEE_GrandBall.questContentRules.rulesStrings.0>
+  <VFEE_GrandBall.questContentRules.rulesStrings.1>lastOrNot(nobleCount&gt;=2)-&gt;останній</VFEE_GrandBall.questContentRules.rulesStrings.1>
+  <VFEE_GrandBall.questContentRules.rulesStrings.2>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</VFEE_GrandBall.questContentRules.rulesStrings.2>
+  <VFEE_GrandBall.questContentRules.rulesStrings.3>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</VFEE_GrandBall.questContentRules.rulesStrings.3>
+  <VFEE_GrandBall.questContentRules.rulesStrings.4>decidedToLeave-&gt;Негайно покидають вас! Навряд чи вони захочуть згадувати цей день.</VFEE_GrandBall.questContentRules.rulesStrings.4>
+  <VFEE_GrandBall.questContentRules.rulesStrings.5>oneOfThe-&gt;один із знаті, запрошених на бал.</VFEE_GrandBall.questContentRules.rulesStrings.5>
+  <VFEE_GrandBall.questContentRules.rulesStrings.6>questOver-&gt;Завдання '[resolvedQuestName]' завершене.</VFEE_GrandBall.questContentRules.rulesStrings.6>
+  <VFEE_GrandBall.questContentRules.rulesStrings.7>CeremonyFailedLetterLabel-&gt;Невдалий грандіозний бал</VFEE_GrandBall.questContentRules.rulesStrings.7>
+  <VFEE_GrandBall.questContentRules.rulesStrings.8>CeremonyFailedLetterText-&gt;[asker_nameFull] розчарований вашим балом [asker_pronoun] йде разом з [asker_possessive] гостями</VFEE_GrandBall.questContentRules.rulesStrings.8>
+  <VFEE_GrandBall.questContentRules.rulesStrings.9>CeremonyTimeoutLetterLabel-&gt;Невдалий грандіозний бал</VFEE_GrandBall.questContentRules.rulesStrings.9>
+  <VFEE_GrandBall.questContentRules.rulesStrings.10>CeremonyTimeoutLetterText-&gt;[asker_nameFull] втомився чекати, коли ви почнете бар. [asker_pronoun] йде разом з [asker_possessive] гостями.</VFEE_GrandBall.questContentRules.rulesStrings.10>
+  <VFEE_GrandBall.questContentRules.rulesStrings.11>letterIntroArrested-&gt;Ви арештували {SUBJECT_definite}, [oneOfThe].</VFEE_GrandBall.questContentRules.rulesStrings.11>
+  <VFEE_GrandBall.questContentRules.rulesStrings.12>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] арештовано</VFEE_GrandBall.questContentRules.rulesStrings.12>
+  <VFEE_GrandBall.questContentRules.rulesStrings.13>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.13>
+  <VFEE_GrandBall.questContentRules.rulesStrings.14>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] загинув.</VFEE_GrandBall.questContentRules.rulesStrings.14>
+  <VFEE_GrandBall.questContentRules.rulesStrings.15>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] смерть: Покидають вас</VFEE_GrandBall.questContentRules.rulesStrings.15>
+  <VFEE_GrandBall.questContentRules.rulesStrings.16>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.16>
+  <VFEE_GrandBall.questContentRules.rulesStrings.17>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], став жертвою хірургів.</VFEE_GrandBall.questContentRules.rulesStrings.17>
+  <VFEE_GrandBall.questContentRules.rulesStrings.18>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Хірургія: Покидають вас</VFEE_GrandBall.questContentRules.rulesStrings.18>
+  <VFEE_GrandBall.questContentRules.rulesStrings.19>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.19>
+  <VFEE_GrandBall.questContentRules.rulesStrings.20>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], викрадений.</VFEE_GrandBall.questContentRules.rulesStrings.20>
+  <VFEE_GrandBall.questContentRules.rulesStrings.21>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Викрадення: Покидають вас</VFEE_GrandBall.questContentRules.rulesStrings.21>
+  <VFEE_GrandBall.questContentRules.rulesStrings.22>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.22>
+  <VFEE_GrandBall.questContentRules.rulesStrings.23>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], вигнаний.</VFEE_GrandBall.questContentRules.rulesStrings.23>
+  <VFEE_GrandBall.questContentRules.rulesStrings.24>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Вигнання: Покидають вас</VFEE_GrandBall.questContentRules.rulesStrings.24>
+  <VFEE_GrandBall.questContentRules.rulesStrings.25>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.25>
+  <VFEE_GrandBall.questContentRules.rulesStrings.26>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}, знищенний</VFEE_GrandBall.questContentRules.rulesStrings.26>
+  <VFEE_GrandBall.questContentRules.rulesStrings.27>ShuttleDestroyedLabel-&gt;Шатл знищенний: Бал скасовано</VFEE_GrandBall.questContentRules.rulesStrings.27>
+  <VFEE_GrandBall.questContentRules.rulesStrings.28>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</VFEE_GrandBall.questContentRules.rulesStrings.28>
+  <VFEE_GrandBall.questContentRules.rulesStrings.29>raidArrivedLetterLabel-&gt;Замах дезертирів</VFEE_GrandBall.questContentRules.rulesStrings.29>
+  <VFEE_GrandBall.questContentRules.rulesStrings.30>raidArrivedLetterText-&gt;Група дезертирів прибула, щоб спробувати зірвати бар і вбити шляхтичів\n\n[asker_nameFull] не зважає на загрозу, та вимагає продовження виставки! [asker_possessive] воліє, щоб ви забезпечили їхню безпеку і розібралися з покидьками.</VFEE_GrandBall.questContentRules.rulesStrings.30>
+  <VFEE_GrandBall.questContentRules.rulesStrings.31>BallSuccessLetterLetterLabel-&gt;GrandBall Success</VFEE_GrandBall.questContentRules.rulesStrings.31>
+  <VFEE_GrandBall.questContentRules.rulesStrings.32>BallSuccessLetterText-&gt;Шатл відправився з [asker_nameFull] і [asker_possessive] гостями. Загалом бал прийшов чудово, і всі повернулися додому.</VFEE_GrandBall.questContentRules.rulesStrings.32>
+
+
+</LanguageData>

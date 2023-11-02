@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_Steel.label>видобуток сталі</VFEE_Steel.label>
+  <VFEE_Steel.description>Це поселення видобуває сталь для свого володаря.</VFEE_Steel.description>
+
+  <VFEE_Wood.label>вирубка дерев</VFEE_Wood.label>
+  <VFEE_Wood.description>Це поселення рубає дрова для свого володаря.</VFEE_Wood.description>
+
+  <VFEE_Gold.label>податок на золото</VFEE_Gold.label>
+  <VFEE_Gold.description>Це поселення платить золотом своєму володареві.</VFEE_Gold.description>
+
+  <VFEE_Silver.label>податок на срібло</VFEE_Silver.label>
+  <VFEE_Silver.description>Це поселення платить срібло своєму володареві.</VFEE_Silver.description>
+
+  <VFEE_Farming.label>фермерство</VFEE_Farming.label>
+  <VFEE_Farming.description>Це поселення приносить їжусвоєму  володареві.</VFEE_Farming.description>
+
+  <VFEE_Honor.label>почесті</VFEE_Honor.label>
+  <VFEE_Honor.description>Це поселення надає честь їхньому володареві.</VFEE_Honor.description>
+
+  <VFEE_Slavery.label>рабство</VFEE_Slavery.label>
+  <VFEE_Slavery.description>Це поселення захоплює рабів для свого володаря.</VFEE_Slavery.description>
+
+
+</LanguageData>

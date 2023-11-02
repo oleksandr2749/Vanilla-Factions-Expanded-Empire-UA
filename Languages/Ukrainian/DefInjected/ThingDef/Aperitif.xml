@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_Aperitif.label>аперитив</VFEE_Aperitif.label>
+  <VFEE_Aperitif.description>Аперитив - безалкогольний, з цитрусовим і трохи гірким смаком. Спричиняє сильне, але безболісне блювання, повністю очищаючи шлунок і смакові рецептори. Рецепт аперитиву є суворою таємницею Гільдій Гостинності Імперії, і ніхто інший на планеті не зміг повторити цей чудовий напій.\n\nІмперська знать обожнює аперитив за його здатність очистити їхній шлунок від їжі, даючи їм змогу споживати ще більше шедеврів імперської кухні.</VFEE_Aperitif.description>
+  <VFEE_Aperitif.ingestible.ingestCommandString>Випити {0}</VFEE_Aperitif.ingestible.ingestCommandString>
+  <VFEE_Aperitif.ingestible.ingestReportString>Пи'є {0}.</VFEE_Aperitif.ingestible.ingestReportString>
+
+
+</LanguageData>

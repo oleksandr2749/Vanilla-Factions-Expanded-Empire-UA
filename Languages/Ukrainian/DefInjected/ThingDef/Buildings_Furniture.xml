@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_GrandTable.label>величний стіл</VFEE_GrandTable.label>
+  <VFEE_GrandTable.description>A luxurious, beautiful gold-inlaid table fit for the highborn, it is a work of art in itself. People eat off tables when chairs are placed facing them.</VFEE_GrandTable.description>
+  <VFEE_GrandTable_Blueprint.label>grand table (blueprint)</VFEE_GrandTable_Blueprint.label>
+  <VFEE_GrandTable_Blueprint_Install.label>grand table (blueprint)</VFEE_GrandTable_Blueprint_Install.label>
+  <VFEE_GrandTable_Frame.label>grand table (building)</VFEE_GrandTable_Frame.label>
+  <VFEE_GrandTable_Frame.description>A luxurious, beautiful gold-inlaid table fit for the highborn, it is a work of art in itself. People eat off tables when chairs are placed facing them.</VFEE_GrandTable_Frame.description>
+
+  <VFEE_GrandChair.label>величний стілець</VFEE_GrandChair.label>
+  <VFEE_GrandChair.description>A comfortable and elegant chair, it is a work of art in itself. Can be used at tables, work stations, and elsewhere.</VFEE_GrandChair.description>
+  <VFEE_GrandChair_Blueprint.label>grand chair (blueprint)</VFEE_GrandChair_Blueprint.label>
+  <VFEE_GrandChair_Blueprint_Install.label>grand chair (blueprint)</VFEE_GrandChair_Blueprint_Install.label>
+  <VFEE_GrandChair_Frame.label>grand chair (building)</VFEE_GrandChair_Frame.label>
+  <VFEE_GrandChair_Frame.description>A comfortable and elegant chair, it is a work of art in itself. Can be used at tables, work stations, and elsewhere.</VFEE_GrandChair_Frame.description>
+
+  <VFEE_ImperialBanner.label>імперський прапор</VFEE_ImperialBanner.label>
+  <VFEE_ImperialBanner.description>A decorative strip of cloth hanging from a vertical wooden frame. Appropriate for royal rooms.</VFEE_ImperialBanner.description>
+  <VFEE_ImperialBanner_Blueprint.label>imperial banner (blueprint)</VFEE_ImperialBanner_Blueprint.label>
+  <VFEE_ImperialBanner_Blueprint_Install.label>imperial banner (blueprint)</VFEE_ImperialBanner_Blueprint_Install.label>
+  <VFEE_ImperialBanner_Frame.label>imperial banner (building)</VFEE_ImperialBanner_Frame.label>
+  <VFEE_ImperialBanner_Frame.description>A decorative strip of cloth hanging from a vertical wooden frame. Appropriate for royal rooms.</VFEE_ImperialBanner_Frame.description>
+
+  <VFEE_RoyalStool.label>королівський стілець</VFEE_RoyalStool.label>
+  <VFEE_RoyalStool.description>A luxurious gold-inlaid stool fit for the nobility. Can be used at tables, work stations, and elsewhere.</VFEE_RoyalStool.description>
+  <VFEE_RoyalStool_Blueprint.label>royal stool (blueprint)</VFEE_RoyalStool_Blueprint.label>
+  <VFEE_RoyalStool_Blueprint_Install.label>royal stool (blueprint)</VFEE_RoyalStool_Blueprint_Install.label>
+  <VFEE_RoyalStool_Frame.label>royal stool (building)</VFEE_RoyalStool_Frame.label>
+  <VFEE_RoyalStool_Frame.description>A luxurious gold-inlaid stool fit for the nobility. Can be used at tables, work stations, and elsewhere.</VFEE_RoyalStool_Frame.description>
+
+  <VFEE_StellicThrone.label>трон для медитації стеларха</VFEE_StellicThrone.label>
+  <VFEE_StellicThrone.description>A titanic, ornate chair, designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain.</VFEE_StellicThrone.description>
+  <VFEE_StellicThrone_Blueprint.label>stellic meditation throne (blueprint)</VFEE_StellicThrone_Blueprint.label>
+  <VFEE_StellicThrone_Blueprint_Install.label>stellic meditation throne (blueprint)</VFEE_StellicThrone_Blueprint_Install.label>
+  <VFEE_StellicThrone_Frame.label>stellic meditation throne (building)</VFEE_StellicThrone_Frame.label>
+  <VFEE_StellicThrone_Frame.description>A titanic, ornate chair, designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain.</VFEE_StellicThrone_Frame.description>
+
+  <VFEE_Candelabra.label>канделябр</VFEE_Candelabra.label>
+  <VFEE_Candelabra.description>An elaborate, artistic electrical standing lamp that lights an area. People need light to move and work at full speed.</VFEE_Candelabra.description>
+  <VFEE_Candelabra_Blueprint.label>candelabra (blueprint)</VFEE_Candelabra_Blueprint.label>
+  <VFEE_Candelabra_Blueprint_Install.label>candelabra (blueprint)</VFEE_Candelabra_Blueprint_Install.label>
+  <VFEE_Candelabra_Frame.label>candelabra (building)</VFEE_Candelabra_Frame.label>
+  <VFEE_Candelabra_Frame.description>An elaborate, artistic electrical standing lamp that lights an area. People need light to move and work at full speed.</VFEE_Candelabra_Frame.description>
+
+  <VFEE_RoyalMirror.label>королівське дзеркало</VFEE_RoyalMirror.label>
+  <VFEE_RoyalMirror.description>A beautiful and elegant mirror. Gives a small comfort bonus to all nearby beds. Placing more than one mirror near the same bed has no effect.</VFEE_RoyalMirror.description>
+  <VFEE_RoyalMirror_Blueprint.label>royal mirror (blueprint)</VFEE_RoyalMirror_Blueprint.label>
+  <VFEE_RoyalMirror_Blueprint_Install.label>royal mirror (blueprint)</VFEE_RoyalMirror_Blueprint_Install.label>
+  <VFEE_RoyalMirror_Frame.label>royal mirror (building)</VFEE_RoyalMirror_Frame.label>
+  <VFEE_RoyalMirror_Frame.description>A beautiful and elegant mirror. Gives a small comfort bonus to all nearby beds. Placing more than one mirror near the same bed has no effect.</VFEE_RoyalMirror_Frame.description>
+
+
+</LanguageData>

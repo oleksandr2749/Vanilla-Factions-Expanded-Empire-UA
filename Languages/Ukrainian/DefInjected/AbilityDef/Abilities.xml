@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_RoyalAddress.label>промова з трону</VFEE_RoyalAddress.label>
+  <VFEE_RoyalAddress.description></VFEE_RoyalAddress.description>
+
+
+  <!-- Bestow Abilities -->
+
+  <VFEE_BestowFreeholder.label>наділити титулом: Землевласник</VFEE_BestowFreeholder.label>
+  <VFEE_BestowFreeholder.description>Надати титул Землевласник обраному персонажу. Він отримає 1 честь. Не може бути застосований на персонажі, який вже має цей або вищий титул. Період відновлення рішення 3 дні.</VFEE_BestowFreeholder.description>
+
+  <VFEE_BestowYeoman.label>наділити титулом: Йомен</VFEE_BestowYeoman.label>
+  <VFEE_BestowYeoman.description>Надати титул Йомен обраному персонажу. Він отримає 7 честі. Не може бути застосований на персонажі, який вже має цей або вищий титул. Період відновлення рішення 3 дні.</VFEE_BestowYeoman.description>
+
+  <VFEE_BestowAcolyte.label>наділити титулом: Аколіт</VFEE_BestowAcolyte.label>
+  <VFEE_BestowAcolyte.description>Надати титул Аколіт обраному персонажу. Він отримає 13 честі. Не може бути застосований на персонажі, який вже має цей або вищий титул. Період відновлення рішення 3 дні.</VFEE_BestowAcolyte.description>
+
+  <VFEE_BestowKnight.label>наділити титулом: Рицарь</VFEE_BestowKnight.label>
+  <VFEE_BestowKnight.description>Надати титул Рицарь/Дама обраному персонажу. Він отримає 21 честі. Не може бути застосований на персонажі, який вже має цей або вищий титул. Період відновлення рішення 3 дні.</VFEE_BestowKnight.description>
+
+  <VFEE_BestowPraetor.label>наділити титулом: Претор</VFEE_BestowPraetor.label>
+  <VFEE_BestowPraetor.description>Надати титул Претор обраному персонажу. Він отримає 31 честі. Не може бути застосований на персонажі, який вже має цей або вищий титул. Період відновлення рішення 3 дні.</VFEE_BestowPraetor.description>
+
+  <VFEE_BestowBaron.label>наділити титулом: Барон</VFEE_BestowBaron.label>
+  <VFEE_BestowBaron.description>Надати титул Барон/Баронесса обраному персонажу. Він отримає 45 честі. Не може бути застосований на персонажі, який вже має цей або вищий титул. Період відновлення рішення 3 дні.</VFEE_BestowBaron.description>
+
+  <VFEE_BestowCount.label>наділити титулом: Граф</VFEE_BestowCount.label>
+  <VFEE_BestowCount.description>Надати титул Граф обраному персонажу. Він отримає 45 честі. Не може бути застосований на персонажі, який вже має цей або вищий титул. Період відновлення рішення 3 дні.</VFEE_BestowCount.description>
+
+
+</LanguageData>

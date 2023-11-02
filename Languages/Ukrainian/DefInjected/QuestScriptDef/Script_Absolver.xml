@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_Permit_CallAbsolver.root.nodes.7.label>Прибув спецпризначенець</VFEE_Permit_CallAbsolver.root.nodes.7.label>
+  <VFEE_Permit_CallAbsolver.root.nodes.7.text>До вас прибув спецпризначенець з [permitFaction_name]. За ними прилетить шатл через [absolverDurationDays] днів.</VFEE_Permit_CallAbsolver.root.nodes.7.text>
+  <VFEE_Permit_CallAbsolver.root.nodes.9.node.nodes.2.label>Шатл прибув</VFEE_Permit_CallAbsolver.root.nodes.9.node.nodes.2.label>
+  <VFEE_Permit_CallAbsolver.root.nodes.9.node.nodes.2.text>Прибув шатл, щоб забрати техножреця з [permitFaction_name].</VFEE_Permit_CallAbsolver.root.nodes.9.node.nodes.2.text>
+  <VFEE_Permit_CallAbsolver.root.nodes.10.name>goodwillChangeOnShuttleDestroyed</VFEE_Permit_CallAbsolver.root.nodes.10.name>
+  <VFEE_Permit_CallAbsolver.root.nodes.11.node.nodes.0.label>Спецпризначенець загинув: {SUBJECT_definite}</VFEE_Permit_CallAbsolver.root.nodes.11.node.nodes.0.label>
+  <VFEE_Permit_CallAbsolver.root.nodes.11.node.nodes.0.text>Спецпризначенець [permitFaction_name], присланий до вас, загинув. Ви отримаєте заміну.</VFEE_Permit_CallAbsolver.root.nodes.11.node.nodes.0.text>
+  <VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.0>questName-&gt;Absolver</VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.1>questDescription-&gt;</VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings.1>
+
+
+</LanguageData>

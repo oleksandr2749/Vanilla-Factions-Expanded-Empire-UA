@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_PipeOrgans.label>трубний орган</VFEE_PipeOrgans.label>
+  <VFEE_PipeOrgans.description>Craft the pipe organs, an incredibly advanced and intricate stationary musical instrument.</VFEE_PipeOrgans.description>
+
+  <VFEE_NobleDecorations.label>благородні прикраси</VFEE_NobleDecorations.label>
+  <VFEE_NobleDecorations.description>Build noble decorations like royal rugs, mirrors, grand chairs, imperial slabs, candelabras, and more.</VFEE_NobleDecorations.description>
+
+  <VFEE_StellicThrone.label>трон стелларха</VFEE_StellicThrone.label>
+  <VFEE_StellicThrone.description>Construct the most grand, most beautiful stellic throne for your high ranking nobility.</VFEE_StellicThrone.description>
+
+  <VFEE_JanissaryGear.label>спорядження яничар</VFEE_JanissaryGear.label>
+  <VFEE_JanissaryGear.description>Craft janissary armor, light powered armor that’s commonly used by imperial recon troops. Note that these also require advanced components.</VFEE_JanissaryGear.description>
+
+
+</LanguageData>

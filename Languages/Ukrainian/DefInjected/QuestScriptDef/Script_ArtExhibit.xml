@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEE_ArtExhibit.questNameRules.rulesStrings.0>questName-&gt;[lodgerIndef] бажає художню виставку</VFEE_ArtExhibit.questNameRules.rulesStrings.0>
+  <VFEE_ArtExhibit.questNameRules.rulesStrings.1>lodgerIndef-&gt;король</VFEE_ArtExhibit.questNameRules.rulesStrings.1>
+  <VFEE_ArtExhibit.questNameRules.rulesStrings.2>lodgerIndef-&gt;знатний</VFEE_ArtExhibit.questNameRules.rulesStrings.2>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.0>lodgersLabel-&gt;знатний</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.0>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.1>lodgersLabelPlural-&gt;шляхтичі</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.1>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.2>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.2>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.3>lodgersDef(nobleCount&gt;=2)-&gt;the [lodgersLabelPlural]</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.3>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.4>joinerEnding-&gt;Ви зможете керувати [lodgersDef] так само, як ви керуєте власними колоністами.[specialNeedsExplanation]</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.4>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.5>їхHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.5>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.6>їхHisHer(nobleCount&gt;=2)-&gt;їх</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.6>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.7>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.7>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.8>lodgersPronoun(nobleCount&gt;=2)-&gt;вони</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.8>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.9>lodgersWasWere(nobleCount==1)-&gt;був</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.9>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.10>lodgersWasWere(nobleCount&gt;=2)-&gt;були</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.10>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.11>цінуютьAppreciates(nobleCount==1)-&gt;цінує</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.11>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.12>цінуютьAppreciates(nobleCount&gt;=2)-&gt;цунують</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.12>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.13>questDescription-&gt;[asker_nameFull], [asker_royalTitleInCurrentFaction] з [asker_faction_name] воліє відвідати вас, разом з іншими знатними людьми, і подивитися на картини у вашій галереї. Це чудова нагода для налагодження стосунків з представниками імператорської знаті.\nВи зобов'язані мати галерею у вашій колонії. Якщо в якийсь момент галерея буде зруйнована, виставка буде скасована.\n[asker_nameFull] надіслав вам список шляхтичів, які були запрошені на виставку і прибудуть на шатлі:\n[noblesDetailList]\n\nВам потрібно буде подбати про безпеку та комфорт гостей під час виставки. Якщо з кимось із гостей щось трапиться, виставка буде скасована.\nДезертири можуть скористатися цією можливістю для організації замаху.</VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings.13>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.0>decidedToLeave-&gt;Негайно покидають вас! Навряд чи вони захочуть згадувати цей день.</VFEE_ArtExhibit.questContentRules.rulesStrings.0>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.1>oneOfThe-&gt;один із знаті, запрошених на виставку.</VFEE_ArtExhibit.questContentRules.rulesStrings.1>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.2>questOver-&gt;Завдання '[resolvedQuestName]' завершене.</VFEE_ArtExhibit.questContentRules.rulesStrings.2>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.3>CeremonyFailedLetterLabel-&gt;Невдала художня вистава</VFEE_ArtExhibit.questContentRules.rulesStrings.3>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.4>CeremonyFailedLetterText-&gt;[asker_nameFull] розчарований вашою виставкою. [asker_pronoun] йде разом з [asker_possessive] госятими</VFEE_ArtExhibit.questContentRules.rulesStrings.4>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.5>CeremonyTimeoutLetterLabel-&gt;Невдала художня вистава</VFEE_ArtExhibit.questContentRules.rulesStrings.5>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.6>CeremonyTimeoutLetterText-&gt;[asker_nameFull] вже втомився чекати, коли ви почнете виставку. [asker_pronoun] їде разом з [asker_possessive] гостями.</VFEE_ArtExhibit.questContentRules.rulesStrings.6>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.7>letterIntroArrested-&gt;Ви арештували {SUBJECT_definite}, [oneOfThe].</VFEE_ArtExhibit.questContentRules.rulesStrings.7>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.8>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] арештовано</VFEE_ArtExhibit.questContentRules.rulesStrings.8>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.9>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.9>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.10>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] загинув.</VFEE_ArtExhibit.questContentRules.rulesStrings.10>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.11>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] Смерть: Покидають вас</VFEE_ArtExhibit.questContentRules.rulesStrings.11>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.12>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.12>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.13>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], став жертвою хірургів.</VFEE_ArtExhibit.questContentRules.rulesStrings.13>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.14>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Хірургія: Покидають вас</VFEE_ArtExhibit.questContentRules.rulesStrings.14>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.15>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.15>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.16>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], викрадений.</VFEE_ArtExhibit.questContentRules.rulesStrings.16>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.17>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Викрадення: Покидають вас</VFEE_ArtExhibit.questContentRules.rulesStrings.17>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.18>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.18>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.19>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], вигнаний.</VFEE_ArtExhibit.questContentRules.rulesStrings.19>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.20>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Вигнання: Покидають вас</VFEE_ArtExhibit.questContentRules.rulesStrings.20>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.21>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.21>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.22>ShuttleDestroyedIntro-&gt;{SUBJECT_definite} знищенний</VFEE_ArtExhibit.questContentRules.rulesStrings.22>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.23>ShuttleDestroyedLabel-&gt;Шатл знищенний: Художню виставку скасовано</VFEE_ArtExhibit.questContentRules.rulesStrings.23>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.24>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</VFEE_ArtExhibit.questContentRules.rulesStrings.24>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.25>raidArrivedLetterLabel-&gt;Замах дезертирів</VFEE_ArtExhibit.questContentRules.rulesStrings.25>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.26>raidArrivedLetterText-&gt;Група дезертирів прибула, щоб спробувати зірвати художню виставку і вбити шляхтичів\n\n[asker_nameFull] не зважає на загрозу, та вимагає продовження виставки! [asker_possessive] воліє, щоб ви забезпечили їхню безпеку і розібралися з покидьками.</VFEE_ArtExhibit.questContentRules.rulesStrings.26>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.27>ArtExhibitSuccessLetterLabel-&gt;Успішна вистава</VFEE_ArtExhibit.questContentRules.rulesStrings.27>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings.28>ArtExhibitSuccessLetterText-&gt;Шатл відправився з [asker_nameFull] і [asker_possessive] гостями. Загалом вистама пройшла чудово, і всі повернулися додому.</VFEE_ArtExhibit.questContentRules.rulesStrings.28>
+
+
+</LanguageData>
